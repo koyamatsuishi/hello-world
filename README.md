@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just learning
+This is for just learning.
+There is nothing interesting.
